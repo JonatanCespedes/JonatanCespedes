@@ -12,6 +12,6 @@ En éste momento y como parte de la aplicación práctica de lo que vamos aprend
 
 ## Portfolio de dibujo e ilustración (Tradicional y digital)
 
-- [Link del portfolio](https://github.com/MaxiDeMichieli/grupo_1_artisticaDali)
+- [Link del portfolio](https://github.com/JonatanCespedes/JonatanCespedes/tree/master/portfolio_ilustracion)
 
 
