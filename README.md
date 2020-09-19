@@ -14,4 +14,23 @@ En éste momento y como parte de la aplicación práctica de lo que vamos aprend
 
 - [Link del portfolio](https://github.com/JonatanCespedes/JonatanCespedes/tree/master/portfolio_ilustracion)
 
+## Ejercicios con HTML y CSS 
+
+Trabajo Practico realizado con HTML y CSS, se realizó el home, y dos formularios (Login y registro)
+- [Link del ejercicio](https://github.com/JonatanCespedes/tpCraftsy)
+
+Ejercicio práctico de html y estilos css. Se realizó un home con la carta del restaurante y un formulario de contacto.
+- [Link del ejercicio](https://github.com/JonatanCespedes/CartaResto)
+
+Trabajo practico de HTML Y CSS
+- [Link del ejercicio](https://github.com/JonatanCespedes/EmiliaColeHTMLCSS)
+
+## Ejercicios con NodeJs y Express
+
+Trabajo práctico integrador "Concesionarias de autos" (Express, rutas parametrizadas)
+- [Link del ejercicio](https://github.com/JonatanCespedes/trabajoIntegradosExpress)
+
+Ejercicio de la clase práctica 10 "Hard Lizard"
+- [Link del ejercicio](https://github.com/JonatanCespedes/hardLizard)
+
 
